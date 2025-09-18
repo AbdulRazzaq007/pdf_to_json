@@ -3,8 +3,7 @@ pdfplumber
 camelot-py[cv]
 pymupdf
 pytesseract
-Pillow
-numpy
-pandas
+pillow
+opencv-python-headless
 
 
