@@ -124,18 +124,7 @@ This opens a web UI where you can:
 
 ---
 
-## 🌐 Deploy on Streamlit Cloud
 
-1. Push repo to GitHub (already done ✅).
-2. Go to [Streamlit Cloud](https://streamlit.io/cloud).
-3. Create new app with:
-
-   * Repo: `AbdulRazzaq007/pdf_to_json`
-   * Branch: `main`
-   * File path: `app.py`
-4. Deploy 🚀 → You’ll get a public link.
-
----
 
 ## 📌 Notes
 
